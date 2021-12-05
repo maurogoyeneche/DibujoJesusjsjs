@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}  
+html{
+    font-size: 62.5%;
+}
+h1{
+    font-family: Helvetica;
+    color: rgb(44, 44, 44);
+    font-size: 2rem;
+}
+header{
+    display: flex;
+}
+nav{
+    display: flex;
+
+}
+.headerNav{
+    font-size: 2rem;
+    font-family: Helvetica;
+    color: rgb(44, 44, 44);
+}
