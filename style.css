@@ -22,4 +22,13 @@ nav{
     font-size: 2rem;
     font-family: Helvetica;
     color: rgb(44, 44, 44);
+    margin: 10px; 
 }
+.galeria{
+    margin: 10px;
+    width: 90px;
+    height: 40px;
+    background-color: green;
+    border: solid, 1px, rgb(44, 44, 44);
+}
+
