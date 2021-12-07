@@ -6,29 +6,72 @@
 html{
     font-size: 62.5%;
 }
-h1{
-    font-family: Helvetica;
-    color: rgb(44, 44, 44);
-    font-size: 2rem;
-}
 header{
     display: flex;
+    height: 10vh;
 }
 nav{
     display: flex;
+    width: 50vw;
 
 }
 .headerNav{
-    font-size: 2rem;
+    font-size: 3.6rem;
     font-family: Helvetica;
     color: rgb(44, 44, 44);
-    margin: 10px; 
+    margin: 40px; 
 }
-.galeria{
-    margin: 10px;
-    width: 90px;
-    height: 40px;
-    background-color: green;
-    border: solid, 1px, rgb(44, 44, 44);
+#headerJesusjs{
+    margin-left: 80px;
 }
+.headerButton{
+    width: 50vw;
+    display: flex;
+    justify-content: end;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.galeriaButton{
+    margin: 20px;
+    width: 230px;
+    height: 80px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(44, 44, 44);
+    font-size: 3.6rem;
+    margin-right: 5%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: rgb(44, 44, 44);
+
+}
+
+.esloganP1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: rgb(44, 44, 44);
+    font-size: 3.6rem;
+    margin-top: 10px;
+    text-indent: 1cm;
+    margin: -8px;
+
+}
+.esloganP2{
+    font-family: 'Montserrat', sans-serif;
+    color: #EA1B69;
+    font-weight: 900;
+    font-size: 4.8rem;
+    margin: -8px;
+    text-indent: 1cm;
+
+
+}
+.main1{
+    height: 40vh;
+}
+.main2{
+    height: 50vh;
+}
+
+
+
 
